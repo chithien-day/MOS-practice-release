@@ -1,0 +1,16 @@
+{
+  "de": {
+    "file": "DeThi.mosdata",
+    "sha256": "6373c4125a0632e9434493cf994c9505455aaea459d58cde9eec04dcea9fa8be",
+    "size": 40270238,
+    "id": "60405b53264b2142"
+  },
+  "app": {
+    "file": "MOSPractice_Setup.exe",
+    "sha256": "1c94045648873041dce1dc7a01df4b235bf34bb9984ba1772aa43df0acdcfcbb",
+    "size": 69996290,
+    "version": "2026.10.10.2"
+  },
+  "ghi_chu": "Sửa lỗi chấm bài pdf",
+  "ngay": "2026-10-10 15:35"
+}
