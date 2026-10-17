@@ -1,0 +1,16 @@
+{
+  "de": {
+    "file": "DeThi.mosdata",
+    "sha256": "d1ffac6532756ccf0a2622ab1ececa0a4e6463aa09517eb3927cbdd1365eb64c",
+    "size": 41248439,
+    "id": "90b929eff7270660"
+  },
+  "app": {
+    "file": "MOSPractice_Setup.exe",
+    "sha256": "ce3ceb329e5ee16ca0fa7ef51965e083a9a7507104d3ed9a78dcc05241092aba",
+    "size": 72261254,
+    "version": "2026.10.17.11"
+  },
+  "ghi_chu": "Cập nhật gói ngôn ngữ và lịch sử bài làm",
+  "ngay": "2026-10-17 12:09"
+}
