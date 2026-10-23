@@ -1,0 +1,16 @@
+{
+  "de": {
+    "file": "DeThi.mosdata",
+    "sha256": "af880bbcfd2eb35861878976a995fd1be9413f32ddfd65fa1261db39e2ab9c6c",
+    "size": 41783390,
+    "id": "f16076f9980cd163"
+  },
+  "app": {
+    "file": "MOSPractice_Setup.exe",
+    "sha256": "cf42bd462d3cca0d33428cccf2b3443147a16d07cf07ea14dbaa0d34e7e06b1e",
+    "size": 72803989,
+    "version": "2026.10.23.1"
+  },
+  "ghi_chu": "Cập nhật đề",
+  "ngay": "2026-10-23 08:18"
+}
