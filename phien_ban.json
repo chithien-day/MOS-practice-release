@@ -1,0 +1,17 @@
+{
+  "de": {
+    "file": "DeThi.mosdata",
+    "sha256": "f3228a74d0cd8f6e095aaab3d0e8c965d5a88dc50c2e82385fffb5d9f7123ac8",
+    "size": 41809367,
+    "id": "89bf5c5cfcd52658",
+    "min_app": "2026.11.10.1"
+  },
+  "app": {
+    "file": "MOSPractice_Setup.exe",
+    "sha256": "343fa987dd09be554eb2b17931be37e4fdb3d64e297c6d18620562050b1e1996",
+    "size": 72834440,
+    "version": "2026.11.10.1"
+  },
+  "ghi_chu": "",
+  "ngay": "2026-11-10 19:28"
+}
