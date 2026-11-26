@@ -1,0 +1,17 @@
+{
+  "de": {
+    "file": "DeThi.mosdata",
+    "sha256": "89c385109db0194b5eef6286272b2226223bc63c39289010d51b6ce0ffbe333d",
+    "size": 60790620,
+    "id": "f017ffae8ea12743",
+    "min_app": "2026.11.27.1"
+  },
+  "app": {
+    "file": "MOSPractice_Setup.exe",
+    "sha256": "56d6e5773d205935a15c4e442dbb2085f4312ba420bec9e54984dbaa5525a295",
+    "size": 91821741,
+    "version": "2026.11.27.1"
+  },
+  "ghi_chu": "Sửa lỗi chấm bài",
+  "ngay": "2026-11-27 06:07"
+}
